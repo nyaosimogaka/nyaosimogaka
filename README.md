@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
-- [Level 1 Soccer Match Analysis Shiny App](https://github.com/nyaosimogaka/ActiveDirectoryLab)
+- [Level 1 Soccer Match Analysis Shiny App](https://github.com/nyaosimogaka/soccer-events)
 
 
 <h2>📄 Certifications</h2>
