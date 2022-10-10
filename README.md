@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nyaosi Mogaka </h1> <h4> a Data Scientist </h4>
+<h1>Hi, I'm Nyaosi Mogaka </h1> <h4> Data Scientist </h4>
 
 <h2>Projects:</h2>
 
