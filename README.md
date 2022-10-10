@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - [Level 1 Soccer Match Analysis Shiny App](https://github.com/nyaosimogaka/soccer-events)
-- [Data Analysis CAse Sudy](https://github.com/nyaosimogaka/Data-Analysis-case-study)
+- [Data Analysis Case Sudy](https://github.com/nyaosimogaka/Data-Analysis-case-study)
 
 
 <h2>📄 Certifications</h2>
