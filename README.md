@@ -2,6 +2,7 @@
 
 <h2>Projects:</h2>
 
+- [Soccer Scouting Dashboards](https://github.com/nyaosimogaka/scouting-dashboard)
 - [Soccer Player Match Dashboards](https://github.com/nyaosimogaka/soccer-events)
 - [Data Analysis Case Sudy](https://github.com/nyaosimogaka/Data-Analysis-case-study)
 
